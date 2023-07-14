@@ -1,7 +1,7 @@
 - 👋 hi, i'm atabalos
 - 👀 I’m interested in biotech and of course, computer science.
 - 🌱 I’m currently learning JavaScript.
-- 💞️ I’m looking to collaborate on beginner projects that open my eyes.
+- I’m looking to collaborate on beginner projects that open my eyes.
 - 📫 How to reach me: aarontabalos@gmail.com
 
 <!---
